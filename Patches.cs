@@ -1,9 +1,7 @@
 using Dissonance;
 using HarmonyLib;
 using UnityEngine;
-using BepInEx;
 using TMPro;
-using UnityEngine.InputSystem;
 using System.Linq;
 
 namespace MicStatusHUD { 
